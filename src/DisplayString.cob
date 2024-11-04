@@ -1,0 +1,10 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. DisplayString.
+
+       DATA DIVISION.
+       LINKAGE SECTION.
+       01  WS-STRING     PIC X(100).
+
+       PROCEDURE DIVISION USING WS-STRING.
+           DISPLAY WS-STRING
+           STOP RUN.
