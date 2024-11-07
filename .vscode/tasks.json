@@ -19,3 +19,19 @@
 }
 ]
 }
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Compile COBOL",
+        "type": "shell",
+        "command": "cobc -x -o ${fileBasenameNoExtension} ${file}",
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "detail": "Compile COBOL program with GnuCOBOL"
+      }
+    ]
+  }

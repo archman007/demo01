@@ -1,8 +1,0 @@
-Here's a streamlined guide to install Arch Linux with LUKS encryption and Btrfs snapshots. We'll set up the system to take snapshots using Btrfs, making rollback simple.
-
-1. Boot into Arch Linux Installer
-Boot from an Arch ISO image.
-
-2. Prepare the Disk
-
-

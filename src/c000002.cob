@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. DisplayString.
+       PROGRAM-ID. c000002.
 
        DATA DIVISION.
        LINKAGE SECTION.

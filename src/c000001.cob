@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. DisplayString.
+       PROGRAM-ID. c00001.
 
        DATA DIVISION.
        LINKAGE SECTION.
@@ -7,4 +7,5 @@
 
        PROCEDURE DIVISION USING WS-STRING.
            DISPLAY WS-STRING
-            GOBACK.
+
+           GOBACK.
