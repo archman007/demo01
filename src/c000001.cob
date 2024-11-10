@@ -8,5 +8,6 @@
        PROCEDURE DIVISION USING WS-STRING.
            DISPLAY "Please enter a string (up to 50 characters): "
             WITH NO ADVANCING.
+           ACCEPT WS-STRING.
 
            GOBACK.

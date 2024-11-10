@@ -1,0 +1,1 @@
+source ~/workspace/cob/demo01/scripts/sc.sh c000002
